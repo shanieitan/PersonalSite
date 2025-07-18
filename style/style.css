@@ -1,5 +1,5 @@
 .profile-img {
-    height: 100px;
+    height: 200px;
     border-radius: 50%;
 }
 .gradient-background {
@@ -42,6 +42,7 @@ hr {
 p {
   margin-left: 10%;
   margin-right: 10%;
+  
 }
 .education {
   display: flex;
@@ -53,10 +54,17 @@ ul {
 }
 h2 {
   color: green;
-  font-size: xx-large;
+  font-size: 3rem;
 }
 a {
   text-decoration: none;
   color: green;
   padding: 10px;
+  font-size: 1.25rem;
+}
+.lead {
+  font-size: 1.8rem;
+}
+h1 {
+  font-size: 6rem;
 }
